@@ -1,0 +1,14 @@
+.secondheading{
+    font-weight: 750;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+
+}
+
+
+#carouselExampleIndicators{
+    height: 500px;
+}
+    
